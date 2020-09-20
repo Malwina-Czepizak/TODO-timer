@@ -5,7 +5,7 @@ function App() {
   //tu może być Routing
   return (
     <div className="App">
-    <h1>Siema Elo</h1>
+    <h1>Hello, World</h1>
     </div>
   );
 }
